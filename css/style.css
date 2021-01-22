@@ -1,0 +1,246 @@
+.navbar-fixed{
+    box-shadow: 0 7px 30px -10px rgba(37, 6, 95, 0.5);
+}
+.navbar-fixed .brand-logo{
+    font-family: ubuntu,sans-serif;
+    color: #fff;
+    font-weight:700;
+
+}
+.navbar-fixed .brand-logo span {
+    color: #fff;
+}
+.navbar-fixed ul li a{
+    font-family: 'ubuntu',sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+}
+.slides{
+    height: 700px;
+}
+.slider{
+    height: 700px;
+
+}
+.slides h3{
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff ;
+}
+.slides h2 span{
+    color: #fff;
+}
+.slides a{
+    font-weight: 700;
+    padding-top: 900px;
+    background-color: #3646e5;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px 25px;
+    border-radius: 10px;
+    box-shadow: 0 7px 30px -10px rgba(37, 6, 95, 0.5);
+  }
+.about {
+    background-color: #1f2eb8;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    transition: all 0.3s ease;
+}
+.about h3{
+    font-family: 'ubuntu',sans-serif;
+    color:#fff;
+    margin-bottom: 70px;
+    font-weight: 600;
+}
+.about h4{
+    margin-left: 50px;
+    color: #fff;
+    padding-top: 10px;
+    font-weight: 700;
+    font-family: 'poppins',sans-serif;
+}
+.about p{
+    justify-content: center;
+    font-family: 'poppins',sans-serif;
+    color: #fff;
+    padding-bottom: 30px;
+}
+.about video{
+    border-radius: 10px;
+    box-shadow: 0 7px 30px -10px rgba(37, 6, 95, 0.5);
+    margin-bottom: 40px;
+    grid-auto-flow: column;
+}
+.button-cv{
+    padding-bottom: 100px;
+    background-color: #3646e5;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px 25px;
+    border-radius: 10px;
+    box-shadow: 0 7px 30px -10px rgba(37, 6, 95, 0.5);
+    
+  }
+
+
+.skill{
+    padding-top: 50px;
+    padding-bottom: 90px;
+    font-family: 'poppins',sans-serif;
+}
+.skill h3{
+    font-family: 'ubuntu',sans-serif;
+    padding-bottom: 40px;
+    font-weight: 600;
+    color: #3646e5;
+}
+.skill h4{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: 700;
+    color: #231f20;
+}
+.skill p{
+    font-weight: 600;
+}
+.img-skills1{
+    padding-top: 20px;
+    float: left;
+    
+}
+.img-skills2{
+    padding-top: 20px;
+    float: left;
+    margin-left: 20px;
+}
+.img-skills3{
+    padding-top: 20px;
+    float: left;
+    margin-left: 20px;
+}
+.img-skills4{
+    padding-top: 20px;
+    float: left;
+    margin-left: 20px;
+}
+.img-skill{
+    float: right;
+    border-radius: 15px;
+}
+.parallax-container {
+    height: 20%;
+}
+.parallax{
+    background-color: #0E1878;
+}
+
+
+
+.clients h3{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+.clients img {
+    max-width: 160px;
+    filter:drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.9));
+}
+.services{
+    background-color: #1f2eb8;
+    padding-bottom: 50px;
+}
+.services h3{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: 700;
+    color: #fff;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+.services h5{
+    font-family: 'ubuntu',sans-serif;
+    color: #fff;
+    font-weight: 500;
+
+}
+.services p{
+    font-family: 'poppins',sans-serif;
+    color: #fff;
+}
+.portfolio {
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.portfolio h3{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: 700;
+    color: #0E1878;
+    padding-top: 40px;
+    padding-bottom: 50px;
+
+}
+.portfolio img{
+    border-radius: 15px;
+}
+.contact h3{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: 700;
+    color: #0E1878;
+    padding-top: 40px;
+    padding-bottom: 50px;
+
+}
+.contact .fa-behance{
+    float: left;
+}
+.contact fa-stack fa-2x{
+    color: #fff;
+}
+.contact h5 {
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-weight: 500;
+    color: #fff;
+}
+.contact ul li{
+    font-family: 'poppins',sans-serif;
+}
+.contact p{
+    color: #fff;
+    font-family: 'pippons',sans-serif;
+}
+.input-field{
+    font-family: 'poppins',sans-serif;
+}
+.contact i{
+    color: #fff;
+}
+.button {
+    align-items: center;
+    font-family: 'poppins',sans-serif;
+}
+.card-panel{
+    background-color: #3646e5;
+    border-radius: 30px;
+    box-shadow: 0 7px 30px -10px rgba(37, 6, 95, 0.5);
+}
+
+.footer {
+    padding: 30px ;
+    background-color: #1f2eb8  ;
+}
+
+
+.footer p {
+    font-family: 'poppins',sans-serif;
+    color: rgba(255, 255, 255, 0.842);
+    font-weight: 500;
+}
+.footer h5{
+    font-family: ubuntu,sans-serif;
+    color: #fff;
+    font-size: 26px;
+    font-weight: 500;
+}
